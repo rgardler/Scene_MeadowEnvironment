@@ -40,6 +40,7 @@ Assets/Digital Painting/*
 !Assets/Digital Painting/Plugins
 Assets/Digital Painting/Scenes/
 Assets/Digital Painting/Scenes.meta
+Assets/Gizmos
 
 # Plugins for Digital Painting
 Assets/Digital Painting/Plugins/*
