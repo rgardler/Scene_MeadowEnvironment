@@ -47,8 +47,14 @@ Assets/Gizmos
 Assets/Digital Painting/Plugins/*
 !Assets/Digital Painting/Plugins/README.md
 !Assets/Digital Painting/Plugins/README.md.meta
-!Assets/Digital Painting/Plugins/Scenes/*
+!Assets/Digital Painting/Plugins/Scenes
 !Assets/Digital Painting/Plugins/Scenes.meta
+Assets/Digital Painting/Plugins/Scenes/*
+!Assets/Digital Painting/Plugins/Scenes/MeadowEnvironment.unity
+!Assets/Digital Painting/Plugins/Scenes/MeadowEnvironment.unity.meta
+!Assets/Digital Painting/Plugins/Scenes/MeadowEnvironmentWithWeatherMaker.unity
+!Assets/Digital Painting/Plugins/Scenes/MeadowEnvironmentWithWeatherMaker.unity.meta
+
 
 # 3rd Party Assets
 Assets/Standard Assets.meta
