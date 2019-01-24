@@ -38,6 +38,7 @@ sysinfo.txt
 # Core Digital Painting Assets
 Assets/Digital Painting/*
 !Assets/Digital Painting/Plugins
+!Assets/Digital Painting/Plugins.meta
 Assets/Digital Painting/Scenes/
 Assets/Digital Painting/Scenes.meta
 Assets/Gizmos
