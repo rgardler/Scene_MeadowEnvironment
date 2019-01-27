@@ -42,6 +42,8 @@ Assets/Digital Painting/*
 Assets/Digital Painting/Scenes/
 Assets/Digital Painting/Scenes.meta
 Assets/Gizmos
+Assets/Flying-Pathfinding
+Assets/Flying-Pathfinding.meta
 
 # Plugins for Digital Painting
 Assets/Digital Painting/Plugins/*
